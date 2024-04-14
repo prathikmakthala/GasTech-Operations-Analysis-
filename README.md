@@ -12,6 +12,7 @@ Team Members
 
 Kimaya Devasthali - School of Information, Rochester Institute of Technology
 Indrani Eagapati - School of Information, Rochester Institute of Technology
+
 Prathik Makthala - School of Information, Rochester Institute of Technology
 Data Sources
 
